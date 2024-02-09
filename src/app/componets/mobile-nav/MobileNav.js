@@ -17,7 +17,7 @@ const MobileNav = () => {
             <div className="flex space-x-7">
               <div>
                 <a href="#home" className="font-bold text-sm md:text-xl py-3">
-                  Namra Amir
+                  Abdul Rehman
                 </a>
               </div>
             </div>

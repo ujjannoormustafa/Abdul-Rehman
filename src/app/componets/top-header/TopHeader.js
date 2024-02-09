@@ -13,7 +13,7 @@ const TopHeader = () => {
   {/* logo */}
   <h1 className="w-3/12">
     <a href="#home" className="font-bold text-xl ">
-      Namra Amir
+      Abdul Rehman
     </a>
   </h1>
   {/* navigation */}
@@ -23,19 +23,19 @@ const TopHeader = () => {
       <a href="#home">Home</a>
       </li>
       <li className="p-4 border-b-2 menu border-opacity-0 hover:border-opacity-100 hover:text-purple-400 duration-200 cursor-pointer">
-        <a href="#sec">Let's Talk</a>
+        <a href="#sec">Projects</a>
       </li>
       <li className="p-4 border-b-2 menu border-opacity-0 hover:border-opacity-100 hover:text-purple-400 duration-200 cursor-pointer">
-        <a href="#book">E-book</a>
+        <a href="#book">Skills</a>
       </li>
       <li className="p-4 border-b-2 menu border-opacity-0 hover:border-opacity-100 hover:text-purple-400 duration-200 cursor-pointer">
-        <a href="#cta">Book 1:1 Call</a>
+        <a href="#cta">Contact Me</a>
       </li>
     </ul>
   </nav>
   {/* buttons -*/}
   <div className=" flex justify-end">
-    <a href="https://www.linkedin.com/in/namraamir-personalbranding-contentcreation-ghostwriting/">
+    <a href="https://www.linkedin.com/in/abdul-rehman2/">
       <Image src={icon} alt='icon' width={40} height={40} />
     </a>
   </div>
