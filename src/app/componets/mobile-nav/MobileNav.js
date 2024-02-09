@@ -44,13 +44,13 @@ const MobileNav = () => {
               <a href="">Home</a>
             </li>
             <li className="p-4 border-b-2 menu border-opacity-0 hover:border-opacity-100 hover:text-purple-400 duration-200 cursor-pointer">
-              <a href="">Let's Talk</a>
+              <a href="">Projects</a>
             </li>
             <li className="p-4 border-b-2 menu border-opacity-0 hover:border-opacity-100 hover:text-purple-400 duration-200 cursor-pointer">
-              <a href="">E-book</a>
+              <a href="">Skills</a>
             </li>
             <li className="p-4 border-b-2 menu border-opacity-0 hover:border-opacity-100 hover:text-purple-400 duration-200 cursor-pointer">
-              <a href="">Book 1:1 Call</a>
+              <a href="">Contact Me</a>
             </li>
             <div className=" flex lg:justify-end md:justify-center md:py-4  justify-center items-center">
     <a href="https://www.linkedin.com/in/namraamir-personalbranding-contentcreation-ghostwriting/">
